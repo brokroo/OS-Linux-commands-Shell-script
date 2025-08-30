@@ -3,6 +3,8 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
+# NAME: SANJITH.R
+# REGNO: 212223230191
 # AIM:
 To practice Linux Commands and Shell Scripting
 
